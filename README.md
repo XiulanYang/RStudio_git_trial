@@ -1,5 +1,5 @@
 ---
-title: "first trial"
+title: "first trial."
 output: html_document
 ---
 

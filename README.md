@@ -1,2 +1,3 @@
-testing RStudio and git
-This is a line from RStudio.
+
+## course description
+programming skills and software tools

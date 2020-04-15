@@ -1,2 +1,7 @@
-testing RStudio and git
-This is a line from RStudio.
+---
+title: "first trial."
+output: html_document
+---
+
+## course description
+programming skills and software tools
